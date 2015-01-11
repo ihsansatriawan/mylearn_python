@@ -15,4 +15,8 @@ print "what is 3+2?",3+2
 
 print "what is 5-7", 5-7
 
+print "5/2 = ", 5/2.0
 
+print "7.0/4.0 = ", 7.0/4.0
+
+print "7/4 = ", 7/4
